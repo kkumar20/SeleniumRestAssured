@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/selenium-java-3.141.59/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-java-luna-SR2-win32-x86_64/eclipse/plugins/org.testng_6.13.1.r201712040515.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium driver/rest-assured-3.0.6-dist/rest-assured-3.0.6-deps/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

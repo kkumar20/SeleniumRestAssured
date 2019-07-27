@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="165" started-at="2019-07-25T16:57:26Z" finished-at="2019-07-25T16:57:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2019-07-25T16:57:26Z" finished-at="2019-07-25T16:57:26Z">
+      <class name="Annotation">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Annotation@724af044]" name="beforeTest" is-config="true" duration-ms="2" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Annotation@724af044]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Annotation@724af044]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Annotation@724af044]" name="f" duration-ms="9" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Annotation@724af044]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Annotation@724af044]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Annotation@724af044]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Annotation -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="11" started-at="2019-07-25T16:57:26Z" finished-at="2019-07-25T16:57:26Z">
+      <class name="Annotation1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Annotation1@1bce4f0a]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Annotation1@1bce4f0a]" name="beforeClass" is-config="true" duration-ms="2" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Annotation1@1bce4f0a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Annotation1@1bce4f0a]" name="f" duration-ms="1" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Annotation1@1bce4f0a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Annotation1@1bce4f0a]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Annotation1@1bce4f0a]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Annotation1 -->
+      <class name="Annotation">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Annotation@724af044]" name="beforeSuite" is-config="true" duration-ms="17" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Annotation1@1bce4f0a]" name="beforeSuite" is-config="true" duration-ms="2" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Annotation@724af044]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Annotation1@1bce4f0a]" name="afterSuite" is-config="true" duration-ms="1" started-at="2019-07-25T22:27:26Z" finished-at="2019-07-25T22:27:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Annotation -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
